@@ -2,4 +2,4 @@
 
 print("hello")
 print("hello")
-prin("hello")
+print("hello")
